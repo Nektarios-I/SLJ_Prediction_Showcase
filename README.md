@@ -32,7 +32,7 @@ This showcase focuses on the user-facing interfaces, process observability, and 
 
 The primary visual artifact in this showcase is the SLJ process video below.
 
-https://media.githubusercontent.com/media/Nektarios-I/SLJ_Prediction_Showcase/main/SLJ_Video_Unfinished_Cut_Showcase%20-%20Trim.mp4
+https://github.com/user-attachments/assets/956da622-b5b6-46ff-ac20-f2a8250a9045
 
 Fallback direct file: [SLJ_Video_Unfinished_Cut_Showcase - Trim.mp4](https://github.com/Nektarios-I/SLJ_Prediction_Showcase/raw/main/SLJ_Video_Unfinished_Cut_Showcase%20-%20Trim.mp4)
 
@@ -136,7 +136,7 @@ This view includes session and athlete selection, sensor/upsampling/filter setti
 
 A full walkthrough of the feature pipeline is provided below.
 
-https://media.githubusercontent.com/media/Nektarios-I/SLJ_Prediction_Showcase/main/feature_gui/SLJ%20Feature%20Extraction_Features_GUI.mp4
+https://github.com/user-attachments/assets/cbb636ee-1d23-4529-a8ec-49f5182f2f92
 
 Fallback direct file: [SLJ Feature Extraction_Features_GUI.mp4](https://github.com/Nektarios-I/SLJ_Prediction_Showcase/raw/main/feature_gui/SLJ%20Feature%20Extraction_Features_GUI.mp4)
 
